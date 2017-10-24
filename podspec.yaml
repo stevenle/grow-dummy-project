@@ -1,0 +1,6 @@
+localization:
+  default_locale: en
+  locales:
+  - de
+  - en
+  - fr

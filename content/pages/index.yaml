@@ -1,0 +1,7 @@
+$localization:
+  default_locale: fr
+
+text: default text
+text@en: EN text
+text@de: DE text
+text@fr: FR text
